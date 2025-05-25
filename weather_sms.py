@@ -6,7 +6,7 @@ from base64 import b64encode
 LAT = 63.8258  # Umeå
 LON = 20.2630
 
-TO_NUMBER = "+46703454751"
+TO_NUMBER = "XXX"
 FROM_NAME = "Morsning"
 USERNAME = "XXX"
 PASSWORD = "XXX"
